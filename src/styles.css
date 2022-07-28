@@ -1,0 +1,10 @@
+.App {
+  font-family: 'Lato', sans-serif;
+  width: 50vw;
+  margin: auto;
+}
+
+.button:focus {
+  background-color: black;
+  color: white;
+}
